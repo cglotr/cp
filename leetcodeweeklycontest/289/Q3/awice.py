@@ -1,6 +1,6 @@
 class Solution:
     def maxTrailingZeros(self, grid: List[List[int]]) -> int:
-        # https://www.youtube.com/watch?v=YczmyXzMWAM&t=1032s
+        # https://www.youtube.com/watch?v=YczmyXzMWAM&t=253s
         
         def log(*args):
             if 1:
