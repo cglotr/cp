@@ -5,4 +5,3 @@
 # Counting
 ## Individual contribution
 - https://leetcode.com/contest/weekly-contest-291/problems/total-appeal-of-a-string/
-- 
