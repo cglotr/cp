@@ -9,3 +9,4 @@
 # Math
 ## Rolling hash
 - https://www.youtube.com/watch?v=BQ9E-2umSWc
+- https://leetcode.com/contest/weekly-contest-291/problems/k-divisible-elements-subarrays/
