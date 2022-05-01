@@ -15,3 +15,7 @@
 ## Rolling hash
 - https://www.youtube.com/watch?v=BQ9E-2umSWc
 - https://leetcode.com/contest/weekly-contest-291/problems/k-divisible-elements-subarrays/
+
+## Individual contribution
+- https://www.youtube.com/watch?v=18Agi7XCGAI
+- https://leetcode.com/problems/total-appeal-of-a-string/
