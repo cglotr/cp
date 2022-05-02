@@ -1,8 +1,8 @@
-# Individual line sweep contributions
-- https://leetcode.com/problems/count-unguarded-cells-in-the-grid/
-
 # Binary search
 - https://leetcode.com/problems/escape-the-spreading-fire/
+
+# Individual line sweep contributions
+- https://leetcode.com/problems/count-unguarded-cells-in-the-grid/
 
 # Independent event
 - https://leetcode.com/problems/escape-the-spreading-fire/
