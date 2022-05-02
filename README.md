@@ -1,5 +1,5 @@
 # Array
-## Independent line sweeps
+## Multiple line sweep contributions
 - https://leetcode.com/problems/count-unguarded-cells-in-the-grid/
 
 # Counting
