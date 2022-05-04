@@ -12,6 +12,9 @@
 - https://leetcode.com/contest/weekly-contest-291/problems/total-appeal-of-a-string/
 - https://leetcode.com/problems/total-appeal-of-a-string/
 
+# Invariant
+- https://leetcode.com/problems/move-zeroes/
+
 # Rabin-Karp
 - https://www.youtube.com/watch?v=H4VrKHVG5qI
 - https://leetcode.com/problems/implement-strstr/
