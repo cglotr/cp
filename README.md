@@ -1,6 +1,9 @@
 # Binary search
 - https://leetcode.com/problems/escape-the-spreading-fire/
 
+# Monostack
+- https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
+
 # Individual line sweep contributions
 - https://leetcode.com/problems/count-unguarded-cells-in-the-grid/
 
