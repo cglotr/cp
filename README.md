@@ -15,6 +15,9 @@
 - https://leetcode.com/contest/weekly-contest-291/problems/total-appeal-of-a-string/
 - https://leetcode.com/problems/total-appeal-of-a-string/
 
+## Bidirectional BFS
+- https://leetcode.com/problems/minimum-knight-moves/
+
 ## Invariant
 - https://leetcode.com/problems/move-zeroes/
 
