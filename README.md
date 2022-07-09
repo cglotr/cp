@@ -7,6 +7,9 @@
 ## Individual line sweep contributions
 - https://leetcode.com/problems/count-unguarded-cells-in-the-grid
 
+## Sorted list
+- https://leetcode.com/problems/jump-game-vi
+
 ## Independent event
 - https://leetcode.com/problems/escape-the-spreading-fire
 
