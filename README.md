@@ -1,6 +1,9 @@
 ## Binary search
 - https://leetcode.com/problems/escape-the-spreading-fire
 
+## Backtrack
+- https://leetcode.com/problems/matchsticks-to-square
+
 ## Monostack
 - https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop
 
