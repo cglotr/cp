@@ -1,4 +1,3 @@
-```py
 class Solution:
     def minNumberOfHours(self, init_energy: int, init_exp: int, energy: List[int], experience: List[int]) -> int:
         def check_energy(training):
@@ -31,4 +30,3 @@ class Solution:
             exp_training += 1
             
         return e_training + exp_training
-```
